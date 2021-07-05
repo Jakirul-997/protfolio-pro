@@ -1,0 +1,39 @@
+body {
+  font-family: "Merriweather", serif;
+}
+.flexible-continer {
+  display: flex;
+}
+.half-width {
+  width: 50%;
+  padding: 2%;
+}
+.half-width p {
+  font-size: 30px;
+}
+.half-width a {
+  font-size: 30px;
+  ba
+}
+
+h1 {
+  font-size: 80px;
+}
+
+.orange {
+  color: orange;
+}
+.half-width image{
+  width: 80px;
+}
+
+.link-button{
+  background-image: linear-gradient(orange,rgb(255, 0, 55));
+  border: 5px solid red;
+  border-radius: 5px;
+  color: white;
+  text-decoration: none;
+  
+}
+
+
